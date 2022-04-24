@@ -15,7 +15,7 @@
 
 
 ### Languages and Tools 🛠 
-![PHP](https://img.shields.io/badge/-php-blue)![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 
 ![ReactNative](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=flat) ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=) ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 
