@@ -4,7 +4,7 @@
 
    - :computer: 👨🏻‍💻 Full-Stack Developer | Mobile Developer | IoT Developer from Rio de Janeiro :brazil:
 - 📚 Enthusiast of the best web, mobile and IoT development technologies, constantly improving my skills.
-- 💬  languages: 🇧🇷 portuguese, 🇨🇦 english, 🇫🇷 french and 🇩🇪 german.
+- 💬  languages: 🇧🇷 portuguese, 🇨🇦 english.
 - 👯 I’m looking to collaborate on GitHub for any web or IoT project which seems interesting or useful in any and every possible way.
 - 🧘 ☕  Meditation and a nice cup of coffee can be the ultimate solution for any stress 😄
 
