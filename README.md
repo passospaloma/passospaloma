@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap) 
     
 ### Database 
-![Insomnia](https://img.shields.io/badge/-insomnia-5849BE?logo=insomnia) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=)
+![Insomnia](https://img.shields.io/badge/-insomnia-5849BE?logo=insomnia) ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) 
 
 ### Deploy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
