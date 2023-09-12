@@ -2,7 +2,7 @@
 ## Hi there, Welcome to my profile! 👋
 ### 🤔 About me:
 
-   - :computer: 👨🏻‍💻 Full-Stack Developer | IoT Developer from Rio de Janeiro :brazil: living in Vancouver 🇨🇦 .
+   - :computer: 👨🏻‍💻 Full-Stack Developer from Rio de Janeiro :brazil: living in Vancouver 🇨🇦 .
 - 📚 Enthusiast of the best web, mobile and IoT development technologies, constantly improving my skills.
 - 💬  languages: 🇧🇷 portuguese, 🇨🇦 english.
 - 👯 I’m looking to collaborate on GitHub for any web or IoT project which seems interesting or useful in any and every possible way.
